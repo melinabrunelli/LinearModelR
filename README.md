@@ -24,7 +24,7 @@ The easiest way to access this app is by running the following code in your R co
 shiny::runGitHub("LinearModelR", "melinabrunelli")
 ```
 
-For more information on how to run and navigate LinearModelR, please refer to our [User Guide](https://github.com/melinabrunelli/LinearModelR/blob/main/SuppFig5_v1.0.docx).
+For more information on how to run and navigate LinearModelR, please refer to our [User Guide](https://github.com/melinabrunelli/LinearModelR/blob/main/LinearModelR_UserGuide_v1.0.pdf).
 
 
 
